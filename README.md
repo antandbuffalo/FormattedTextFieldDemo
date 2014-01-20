@@ -3,13 +3,6 @@ FormattedTextFieldDemo
 
 A generic UI formatted textfield for iOS
 
-
-FormattedTextFieldDemo
-======================
-
-A generic UI formatted textfield for iOS
-
-
 How to use the component in your project:
 
 1. Drag and drop the “UIFormattedTextField.h” and “UIFormattedTextField.m” files to your project.
